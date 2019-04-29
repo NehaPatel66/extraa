@@ -3,7 +3,7 @@
     context: __dirname,
     entry: {
         Home: "./index.jsx",
-        Customer: "./Customer.jsx"
+        Customer: "./Customer/ListofCustomer.jsx"
     },
     output: {
         path: __dirname + "/dist",

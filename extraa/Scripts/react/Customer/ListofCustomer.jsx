@@ -207,3 +207,4 @@ export default class CustomerTable extends Component {
     }
 }
 
+ReactDOM.render(<CustomerTable />, document.getElementById("cust"))
